@@ -1,14 +1,2 @@
-_pycache__/
-*.py[cod]
-.venv/
-venv/
-
-*.log
-db.sqlite3
-staticfiles/
-media/
-
-.env
-
-.vscode/
-.idea/
+# Created by venv; see https://docs.python.org/3/library/venv.html
+*
